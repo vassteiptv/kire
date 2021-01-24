@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia",------|Yugoslavia|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
 #EXTINF:-1,EX: HRT 1
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17331
 #EXTINF:-1,EX: HRT 2
@@ -223,6 +225,8 @@ http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
 #EXTINF:-1,EX-YO: Sport Klub 6
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia2",------|Yugoslavia|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
 #EXTINF:-1 ,YU001:24 Kitchen
 http://a1.gokakka.club:8880/testzyx030/123456789/49325
 #EXTINF:-1 ,YU002:Al Jazeera Balkan
@@ -795,7 +799,8 @@ http://a1.gokakka.club:8880/testzyx030/123456789/49029
 http://a1.gokakka.club:8880/testzyx030/123456789/49028
 #EXTINF:-1 ,YU299:Zadruga 4
 http://a1.gokakka.club:8880/testzyx030/123456789/49027
-#EXTINF:-1 ,------|Bulgaria|------
+#EXTINF:-1 tvg-id="" tvg-name="------|Bulgaria|------" tvg-logo="" group-title="Bulgaria",------|Bulgaria|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
 http://a1.gokakka.club:8880/testzyx030/123456789/30826
 #EXTINF:-1 ,BG001:BNT 1 HD
 http://a1.gokakka.club:8880/testzyx030/123456789/30825
@@ -1017,7 +1022,8 @@ http://a1.gokakka.club:8880/testzyx030/123456789/30718
 http://a1.gokakka.club:8880/testzyx030/123456789/30717
 #EXTINF:-1 ,BG110:TV 1000
 http://a1.gokakka.club:8880/testzyx030/123456789/30716
-#EXTINF:-1 ,------|Greece|------
+#EXTINF:-1 tvg-id="" tvg-name="------|Greece sport|------" tvg-logo="" group-title="Greece sport",------|Greece sport|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
 #EXTINF:-1 ,GR015:Nova Sport 1
 http://a1.gokakka.club:8880/testzyx030/123456789/31222
 #EXTINF:-1 ,GR016:Nova Sport 2
